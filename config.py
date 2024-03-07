@@ -7,11 +7,11 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "")
+API_ID = os.environ.get("API_ID",6745910633 "")
 
 API_HASH = os.environ.get("API_HASH", "")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN",6565362541:AAG0d0ARLAcWyMz3hKNs-Eka61_qAicK_2w "") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
 
